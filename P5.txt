@@ -1,0 +1,8 @@
+Participant: P5 (Nisarg)
+Task: add a task with a deadline
+Audio: audio_files/P5_session.mp3 (1 min 31 s)
+Transcription: supplied by the researcher from the recording (not checked against the audio).
+
+I have to add a task called "Prepare project presentation" and set its deadline for seven days from today so I don't forget about it. I'll try ClickUp first. Let me look for the New Task option. Okay, found it. I'll enter the task name, assign it to myself and set the deadline. Now I'll save it and check if it appears in my project.
+Now I'll try doing the same thing in Flowspace. I'll open my project and click New Task. I'll enter the name, select myself and set the deadline. Okay, I'll save it and check the board. Great, the task is there.
+Both platforms let me do the same thing, but Flowspace feels a bit simpler. I didn't have to spend much time looking for the options I needed. Since I'll be adding tasks regularly to keep track of my work, I'd prefer something that lets me do it quickly without too much confusion.

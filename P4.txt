@@ -1,0 +1,8 @@
+Participant: P4 (Debansi)
+Task: invite a friend to the project
+Audio: audio_files/P4_session.mp3 (1 min 2 s)
+Transcription: supplied by the researcher from the recording (not checked against the audio).
+
+I have to invite my friend Riya to our project so we can work together and keep track of our tasks. I'll try ClickUp first. Let me look for the invite option. I can see a few team settings, but I'm not sure whether I'm inviting her to the whole workspace or just this project. I don't want to give her access to things she doesn't need.
+Now I'll switch to Flowspace. Let me find the invite option and add Riya. Okay, that's done. I'm also curious about what she'll see when she joins. I can check what her first screen looks like, which is useful because I want her to find her tasks easily without having to ask me where everything is.
+I think inviting someone should be simple, but helping them get started matters too. Flowspace makes that part easier to understand. I'd still want to see how both platforms work when there are more people in the team.
