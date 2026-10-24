@@ -1,8 +1,0 @@
-Participant: P1 (Aryan)
-Task: find pending assignments and due dates
-Audio: audio_files/P1_session.mp3 (1 min 14 s)
-Transcription: supplied by the researcher from the recording (not checked against the audio).
-
-Okay, I want to see all my pending assignments and check which one is due soon. I'll start with ClickUp. Let me look at the sidebar. There are quite a few options here, so I'm trying to find where my tasks are. Okay, I found My Tasks. I can see my work now, and I'll check the due dates to see what I need to finish first.
-Now let's try Flowspace. I can see My Tasks right here, so I'll click on it. Okay, here are my tasks from different projects, along with their deadlines. That's pretty useful because I don't have to open each project one by one.
-I think Flowspace makes this a little easier. If I'm in a hurry and just want to check what I need to do today, I can find it quickly. ClickUp works too, but it took me a little longer to find what I was looking for.
